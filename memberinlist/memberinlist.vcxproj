@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="mainM.cpp" />
     <ClCompile Include="memberinlist.cpp" />
   </ItemGroup>
   <ItemGroup>

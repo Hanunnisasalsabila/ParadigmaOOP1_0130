@@ -18,6 +18,9 @@
     <ClCompile Include="memberinlist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jantung.h">
